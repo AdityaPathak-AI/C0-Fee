@@ -1,7 +1,39 @@
-C0-FEE is a web application used to order coffee.
+
+# C0-FEE
+
+C0-FEE is a web application . You can use it to order coffee.
 
 
-<br>Used technologies are as follows.
-<br>1.HTML-5
-<br>2.CSS-3
-<br>3.Javascript
+## 🛠 Technologies Used
+
+1. HTML-5
+2. CSS-3
+3. Javascript
+
+
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/AdityaPathak-AI/C0-Fee.git
+```
+
+Go to the project directory
+
+```bash
+  cd C0-Fee
+```
+
+
+```bash
+  start live server.
+```
+
+
+## Support
+
+For support, email sumitpathak861@gmail.com .
+
